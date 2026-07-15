@@ -9,6 +9,10 @@ This project is currently in the **alpha stage**.
 - It can read and display the inner structure of Calypso program files.
 - While it can technically read any file with the standard ZEISS structure, the open dialog is currently optimized for `.inspection` and `.inspset` files.
 
+### 🚫 Out of Scope
+* **No Calculation or Evaluation:** This application will not calculate or evaluate measurement results.<br />
+  It does not perform metrology calculations.
+
 ## 🚀 Planned Features
 - [ ] **XML Export/Import:** A dedicated console tool to export/import files in XML format for integration with other projects.
 - [ ] **Direct Modification:** Ability to modify or remove specific program parts to solve issues that cannot be addressed within Calypso.
