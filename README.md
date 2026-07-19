@@ -1,4 +1,4 @@
-# zeiss_pgm_editor
+# ZEISS Calypso program editor
 
 A specialized editor for ZEISS Calypso program files.
 
